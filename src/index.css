@@ -1,0 +1,12 @@
+body {
+  width: 100vw;
+  background-color: #005f73;
+  color: #e9d8a6;
+  padding: 15px;
+}
+
+a {
+  margin-left: 5px;
+  color: #e9d8a6;
+  font-size: 15px;
+}
